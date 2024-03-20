@@ -1,1 +1,1 @@
-# senai
+# SENAI - LÓGICA DE PROGRAMAÇÃO
